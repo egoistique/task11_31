@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Arr2JTableDemo:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de9af44f-d963-4951-804e-d356db7c5e76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SvBluYwH7FMQCOVVHEGxiLaqAR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="293" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.43793103" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Main (--window)">
+    <configuration name="Main (--window) (1)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.cs.course1.Program" />
+      <module name="Arr2JTableDemo" />
+      <option name="PROGRAM_PARAMETERS" value="-i input01.txt -o output01.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (--window)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.cs.course1.Program" />
+      <module name="Arr2JTableDemo" />
+      <option name="PROGRAM_PARAMETERS" value="--window" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (-c 222.txt)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.cs.course1.Program" />
+      <module name="Arr2JTableDemo" />
+      <option name="PROGRAM_PARAMETERS" value="-c 222.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (-r 111.txt)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.vsu.cs.course1.Program" />
+      <module name="Arr2JTableDemo" />
+      <option name="PROGRAM_PARAMETERS" value="-r 111.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (-r 111.txt)" />
+      <item itemvalue="Application.Main (-c 222.txt)" />
+      <item itemvalue="Application.Main (--window) (1)" />
+      <item itemvalue="Application.Main (--window)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (--window)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de9af44f-d963-4951-804e-d356db7c5e76" name="Default Changelist" comment="" />
+      <created>1572215785802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572215785802</updated>
+      <workItem from="1638478321633" duration="23000" />
+      <workItem from="1638482049950" duration="1919000" />
+      <workItem from="1638530878266" duration="2399000" />
+      <workItem from="1639486525407" duration="20000" />
+      <workItem from="1639486592851" duration="6947000" />
+      <workItem from="1639518149809" duration="209000" />
+      <workItem from="1639658214613" duration="1594000" />
+      <workItem from="1639661981908" duration="12423000" />
+      <workItem from="1639686927891" duration="234000" />
+      <workItem from="1639693045837" duration="8788000" />
+      <workItem from="1639760303002" duration="6881000" />
+      <workItem from="1639813261769" duration="1125000" />
+      <workItem from="1639854051492" duration="17228000" />
+      <workItem from="1639950547550" duration="10604000" />
+      <workItem from="1639994225628" duration="3025000" />
+      <workItem from="1640098231809" duration="408000" />
+      <workItem from="1640098850064" duration="38000" />
+      <workItem from="1640163022703" duration="140000" />
+      <workItem from="1640163217222" duration="628000" />
+      <workItem from="1640174173364" duration="561000" />
+      <workItem from="1640191809560" duration="1251000" />
+      <workItem from="1640200254944" duration="1052000" />
+      <workItem from="1640203846125" duration="1166000" />
+      <workItem from="1640247883511" duration="6869000" />
+      <workItem from="1640268414954" duration="618000" />
+      <workItem from="1640548348388" duration="749000" />
+      <workItem from="1640584322474" duration="11000" />
+      <workItem from="1640669030672" duration="3052000" />
+      <workItem from="1640766260263" duration="666000" />
+      <workItem from="1643374310702" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FirstSwing$Main.ic" NAME="Main Coverage Results" MODIFIED="1572217616124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
